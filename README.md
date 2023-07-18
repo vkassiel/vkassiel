@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="assets/avatar.png" style="image-rendering: pixelated;" width="170" />
   <h1 style="font-family: monospace; font-weight: bold" align="center">Hi there 👋🏻</b></h1>
 </p>
 
