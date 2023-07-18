@@ -1,16 +1,23 @@
-### Hi there 👋
+<p align="center">
+  <img src="assets/avatar.png" width="100" />
+  <h2 align="center">Hi there 👋🏻</b></h2>
+</p>
+<hr>
 
-<!--
-**vkassiel/vkassiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/vitoralmeidabr/">Linkedin</a>
+  ·
+  <a href="https://vkassiel.github.io/">Website</a>
+</p>
 
-Here are some ideas to get you started:
+<h3 style="font-family: monospace; font-weight: bold">ABOUT</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Vitor Almeida and I am currently working with **Angular** and **NestJS** technologies. I am also learning about **Linux**, **refactoring techniques**, and **software architecture**.
+
+My future goals is learn more about new technologies like Go or Rust. Additionally, I intend to enhance my knowledge of software development processes.
+
+<br />
+
+<p align="center" style="display: flex; ">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkassiel&theme=dark&langs_count=8&card_width=600&layout=compact&hide_border=true"/>
+</p>
