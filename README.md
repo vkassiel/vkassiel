@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="assets/avatar.png" width="100" />
-  <h2 align="center">Hi there 👋🏻</b></h2>
+  <img src="assets/avatar.png" style="image-rendering: pixelated;" width="170" />
+  <h1 style="font-family: monospace; font-weight: bold" align="center">Hi there 👋🏻</b></h1>
 </p>
-<hr>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vitoralmeidabr/">Linkedin</a>
